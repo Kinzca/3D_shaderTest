@@ -11,3 +11,5 @@
 master - 存放的是工程文件
 
 exe - 存放打包出来的可执行文件
+
+bookRescorce - 使用的图书资源
